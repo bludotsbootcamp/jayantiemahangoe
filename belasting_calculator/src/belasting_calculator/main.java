@@ -20,7 +20,7 @@ public class main {
 		bruto = invoer.nextDouble();
 		
 		
-		if (bruto < 2000){
+		if (bruto < 2500){
 			belasting = bruto * 0.10;	
 		}else {
 			belasting = bruto * 0.20;
